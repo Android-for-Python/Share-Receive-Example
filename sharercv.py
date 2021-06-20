@@ -4,7 +4,7 @@ from storage import SharedStorage
 
 Intent = autoclass('android.content.Intent')
 
-# Source https://github.com/RobertFlatt/Android-for-Python/share_rcv
+# Source https://github.com/Android-for-Python/Share-Receive-Example
 
 '''
    NOTE: intent_filter.xml and intent_handler() must be customized 
