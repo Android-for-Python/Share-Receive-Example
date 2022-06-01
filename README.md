@@ -2,6 +2,8 @@
 
 *Receive a file or text shared by another app.*
 
+### **Depreciated, use [share_receive_example](https://github.com/Android-for-Python/share_receive_example).**
+
 Example of receiving an Android share of a .mp4 file or of plain text. This app on its own does nothing. If another app shares text it displays it, and if another app shares a .mp4 it plays it. You can use the Share example to do this.
 
 Be aware, this app copies the .mp4, 500MB has only a small latency but file management becomes important.
